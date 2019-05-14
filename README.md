@@ -1,5 +1,5 @@
 # SQL-Tutorial
-Códigos del tutorial de David Hackro con modificaciones en la base de datos. Se simula una cartera de polizas de una aseguradora.
+Códigos para aprender administración de base de datos con SQL. Se simula una cartera de polizas de una aseguradora.
 
 Son ejemplos sencillos pero muy didacticos para aprender administración de Bases de Datos con el lenguaje SQL. 
 
